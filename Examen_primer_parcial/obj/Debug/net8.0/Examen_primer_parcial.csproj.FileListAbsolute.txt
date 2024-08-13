@@ -1,0 +1,14 @@
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\bin\Debug\net8.0\Examen_primer_parcial.exe
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\bin\Debug\net8.0\Examen_primer_parcial.deps.json
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\bin\Debug\net8.0\Examen_primer_parcial.runtimeconfig.json
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\bin\Debug\net8.0\Examen_primer_parcial.dll
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\bin\Debug\net8.0\Examen_primer_parcial.pdb
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\Examen_primer_parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\Examen_primer_parcial.AssemblyInfoInputs.cache
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\Examen_primer_parcial.AssemblyInfo.cs
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\Examen_primer_parcial.csproj.CoreCompileInputs.cache
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\Examen_primer_parcial.dll
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\refint\Examen_primer_parcial.dll
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\Examen_primer_parcial.pdb
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\Examen_primer_parcial.genruntimeconfig.cache
+C:\Users\EL APRENDIZ ETERNO\source\repos\Examen_primer_parcial\Examen_primer_parcial\obj\Debug\net8.0\ref\Examen_primer_parcial.dll
